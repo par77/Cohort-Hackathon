@@ -1,0 +1,62 @@
+[
+    {
+        "teamName": "Team 1",
+        "students": ["Student A", "Student B", "Student C"],
+        "email": "team1@example.com",
+        "studentsCount": 3
+    },
+    {
+        "teamName": "Team 2",
+        "students": ["Student X", "Student Y"],
+        "email": "team2@example.com",
+        "studentsCount": 2
+    },
+    {
+        "teamName": "Team 3",
+        "students": ["Student P", "Student Q", "Student R"],
+        "email": "team3@example.com",
+        "studentsCount": 3
+    },
+    {
+        "teamName": "Team 4",
+        "students": ["Student M"],
+        "email": "team4@example.com",
+        "studentsCount": 1
+    },
+    {
+        "teamName": "Team 5",
+        "students": ["Student D", "Student E", "Student F"],
+        "email": "team5@example.com",
+        "studentsCount": 3
+    },
+    {
+        "teamName": "Team 6",
+        "students": ["Student J", "Student K"],
+        "email": "team6@example.com",
+        "studentsCount": 2
+    },
+    {
+        "teamName": "Team 7",
+        "students": ["Student G", "Student H"],
+        "email": "team7@example.com",
+        "studentsCount": 2
+    },
+    {
+        "teamName": "Team 8",
+        "students": ["Student I"],
+        "email": "team8@example.com",
+        "studentsCount": 1
+    },
+    {
+        "teamName": "Team 9",
+        "students": ["Student S", "Student T"],
+        "email": "team9@example.com",
+        "studentsCount": 2
+    },
+    {
+        "teamName": "Team 10",
+        "students": ["Student U", "Student V"],
+        "email": "team10@example.com",
+        "studentsCount": 2
+    }
+]
